@@ -1,0 +1,17 @@
+{
+  "name": "cooking-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "karma-browserify": "^8.0.0",
+    "jasmine": "^3.6.4",
+    "karma": "^6.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

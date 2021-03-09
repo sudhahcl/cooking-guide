@@ -1,0 +1,55 @@
+{
+    "category": [
+      {
+        "name":"Chineese",
+        "id":1,
+        "itemList":[ {
+           "itemID":1,
+            "item":"Noodle",
+            "itemImage":"",
+            "description":"Firstly, in a large vessel take 6 cup water, 1 tsp salt and 1 tsp oil.once the water comes to a boil place a pack of hakka noodles (125 gm)boil the noodles for 3 minutes or till it turns al dente. refer package instructions to know the exact cooking timedrain off the water from noodles and pour 1 cup of cold water to prevent from further cooking.drizzle 1 tsp oil and mix gently, to avoid noodles from sticking to each other. keep aside.now in a large kadai heat 2 tbsp oil and saute 2 clove garlic",
+            "count":1
+        },
+        {
+            "itemID":2,
+          "item":"Schezwan Rice",
+          "itemImage":"",
+          "description":"Boil the rice in water and when  water comes to a boil place a pack of thai masala (125 gm)boil the noodles for 3 minutes or till it turns al dente. refer package instructions to know the exact cooking timedrain off the water from noodles and pour 1 cup of cold water to prevent from further cooking.drizzle 1 tsp oil and mix gently, to avoid noodles from sticking to each other. keep aside.now in a large kadai heat 2 tbsp oil and saute 2 clove garlic",
+          "count":1
+      }]},
+      {
+        "name":"Indian",
+        "id":2,
+        "itemList":[ {
+        "itemID":1,
+          "item":"Sambhar Rice",
+          "itemImage":"",
+          "description":"Take rice and boil in water 1 tsp salt and 1 tsp oil.once the water comes to a boil place a pack of hakka noodles (125 gm)boil the noodles for 3 minutes or till it turns al dente. refer package instructions to know the exact cooking timedrain off the water from noodles and pour 1 cup of cold water to prevent from further cooking.drizzle 1 tsp oil and mix gently, to avoid noodles from sticking to each other. keep aside.now in a large kadai heat 2 tbsp oil and saute 2 clove garlic",
+          "count":1
+        },
+      {
+        "itemID":2,
+        "item":"Chole Bhature",
+        "itemImage":"",
+        "description":"Firstly, in a large vessel take 6 cup water, 1 tsp salt and 1 tsp oil.once the water comes to a boil place a pack of hakka noodles (125 gm)boil the noodles for 3 minutes or till it turns al dente. refer package instructions to know the exact cooking timedrain off the water from noodles and pour 1 cup of cold water to prevent from further cooking.drizzle 1 tsp oil and mix gently, to avoid noodles from sticking to each other. keep aside.now in a large kadai heat 2 tbsp oil and saute 2 clove garlic",
+        "count":1
+    }]},
+    {
+        "name":"Thai",
+        "id":3,
+        "itemList":[ {
+        "itemID":1,
+          "item":"Thai Rice",
+          "itemImage":"",
+          "description":"Firstly, in a large vessel take 6 cup water, 1 tsp salt and 1 tsp oil.once the water comes to a boil place a pack of hakka noodles (125 gm)boil the noodles for 3 minutes or till it turns al dente. refer package instructions to know the exact cooking timedrain off the water from noodles and pour 1 cup of cold water to prevent from further cooking.drizzle 1 tsp oil and mix gently, to avoid noodles from sticking to each other. keep aside.now in a large kadai heat 2 tbsp oil and saute 2 clove garlic",
+          "count":1
+          
+      },
+      {
+        "itemID":2,
+        "item":"Thai Curry",
+        "itemImage":"",
+        "description":"Take 6 cup water, 1 tsp salt and 1 tsp oil.once the water comes to a boil place a pack of hakka noodles (125 gm)boil the noodles for 3 minutes or till it turns al dente. refer package instructions to know the exact cooking timedrain off the water from noodles and pour 1 cup of cold water to prevent from further cooking.drizzle 1 tsp oil and mix gently, to avoid noodles from sticking to each other. keep aside.now in a large kadai heat 2 tbsp oil and saute 2 clove garlic",
+        "count":1
+    }]}
+       ]}

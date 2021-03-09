@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="header">
+        <img  src="images/headerImage.PNG">
+        <h2>Red Chillies Recipe Store</h2>
+        <div class="header-right">
+           
+          <a class="active" href="#home">Home</a>
+          <a href="#contact">Contact</a>
+          <a href="#about">About</a>
+          <img id="Noodles"class="img1" onmouseover="fav()" src="images/favourite.png">
+          <div id="count"></div>
+        </div>
+      </div>
+      <div class="middle">
+        <div class="menu">
+            <ul>
+                <li class="item" id="chineese">
+                    <a href="#chineese" class="btn" id="Chineese"></a>
+                    <div class="smenu">
+                        <img class="img2" src="images/noodles.jpg">
+                        <a href="#" onclick="imageDescription(backendDataResult)" id="Noodle"></a><br/>
+                        <img class="img2" src="images/schezwan-fried.jpg">
+                        <a href="#schezwanRice" onclick="imageDescriptionSchezwan(backendDataResult)" id="Schezwan Rice"></a>
+                    </div>
+                </li>
+    
+                <li class="item" id="indian">
+                    <a href="#indian" class="btn" id="Indian"></a>
+                    <div class="smenu">
+                        <img class="img2" src="images/sambarRice.jpg"></br>
+                        <a href="#sambharRice" id="Sambhar Rice" onclick="imageDescriptionIndian1(backendDataResult)"></a></br>
+                        <img class="img2" src="images/choleBhature.jpg">
+                        <a href="#choleBhature" id="Chole Bhature" onclick="imageDescriptionIndian2(backendDataResult)"></a>
+                    </div>
+                </li>
+    
+                <li class="item" id="thai">
+                    <a href="#thai" class="btn" id="Thai"></a>
+                    <div class="smenu">
+                        <img class="img2" src="images/ThaiRice.jpg">
+                        <a href="#thaiRice" id="Thai Rice" onclick="imageDescriptionThai1(backendDataResult)"></a>
+                        <img class="img2" src="images/ThaiCurry.jpg">
+                        <a href="#thaiCurry" id="Thai Curry" onclick="imageDescriptionThai2(backendDataResult)"></a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div> 
+      <script src="src/cooking.js"></script>
+</body>
+</html>
